@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently expanding my skils in ReactJs
 - 🔨 I’m currently working on a personal project
-- 📫 Connect with me by e-mail: martinspavlovskis@yahoo.com 
+- 📫 Connect with me: martinspavlovskis@yahoo.com | https://www.linkedin.com/in/martins-pavlovskis/ 
 
 ### Languages and Tools:
 <img align="left" alt="CSharp" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
